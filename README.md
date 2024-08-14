@@ -16,3 +16,7 @@ Installation Instructions:
 Usage Instructions
 Open the dashboard and use the Car Make parameter to select different car brands.
 Observe how the visualizations update in real-time based on your selection.
+
+Viewing the Interactive Dashboard
+Access the live, interactive version of the dashboard here by following the url:
+https://public.tableau.com/app/profile/raghav.saxena/viz/VehicleInsightsDashboard/Dashboard1?publish=yes
